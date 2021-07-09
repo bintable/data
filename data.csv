@@ -1,3 +1,3 @@
 bin,scheme,card_type,card_category,country_code,country,issuer,issuer_phone,issuer_website,card_length
 535116,MASTERCARD,DEBIT,STANDARD,UA,UKRAINE,PUBLIC JOINT STOCK COMPANY TASCOMBANK,123456,www.example.com,16
-403298,VISA,DEBIT,BUSINESS,CD,CONGO,RAWBANK,,,,
+403298,VISA,DEBIT,BUSINESS,CD,CONGO,RAWBANK,,,
